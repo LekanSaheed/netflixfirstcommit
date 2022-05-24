@@ -1,2 +1,2 @@
-# netflixfirstcommit
- 
+# netflix-clone
+ personal project
